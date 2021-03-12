@@ -1,0 +1,4 @@
+gpio_config.c:11:6:GPIO_BitSel	16	static
+gpio_config.c:36:6:GPIO_WriteHighPin	16	static
+gpio_config.c:46:6:GPIO_WriteLowPin	16	static
+gpio_config.c:51:6:delay	16	static

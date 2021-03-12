@@ -1,0 +1,2 @@
+system_clock.c:9:6:SYS_Config	4	static
+system_clock.c:27:6:PortEnable	16	static
